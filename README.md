@@ -1,1 +1,1 @@
-# event_register
+# event_notice
